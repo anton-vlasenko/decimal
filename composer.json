@@ -2,7 +2,7 @@
     "name": "antonvlasenko/decimal",
     "description": "An object-oriented wrapper around BC Math PHP extension",
     "type": "library",
-    "license": "GPL v3",
+    "license": "GPL-3.0-or-later",
     "authors": [
         {
             "name": "Anton Vlasenko",
